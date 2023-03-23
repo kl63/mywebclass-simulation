@@ -4,7 +4,7 @@ test('Language support should allow users to switch between languages and displa
   // Navigate to the page to be tested
   await page.goto('http://localhost:3000');
 
-  // Verify that language switcher is available
+  // Verify that language switchner is available
   const languageSwitcher = await page.$('select#language-switcher');
   expect(languageSwitcher).toBeTruthy();
 
