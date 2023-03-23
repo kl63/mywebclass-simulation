@@ -1,20 +1,7 @@
-const { chromium } = require('@playwright/test');
+const { test, expect } = require('@playwright/test');
 
-(async () => {
-  const browser = await chromium.launch();
-  const context = await browser.newContext();
-  const page = await context.newPage();
-
-  // Navigate to the homepage
+test('Homepage should load successfully', async ({ page }) => {
   await page.goto('http://localhost:3000');
-
-  // Verify that the page loaded successfully
-  const pageTitle = await page.title();
-  if (pageTitle === 'MyWebClass.org') {
-    console.log('Homepage loaded successfully!');
-  } else {
-    console.error('Homepage failed to load.');
-  }
-
-  await browser.close();
-})();
+  const title = await page.title();
+  expect(title).toBe('MyWebClass.org');
+});
