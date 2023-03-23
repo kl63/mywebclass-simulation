@@ -6,11 +6,11 @@ const { chromium } = require('@playwright/test');
   const page = await context.newPage();
 
   // Navigate to the homepage
-  await page.goto('https://www.example.com/');
+  await page.goto('http://localhost:3000');
 
   // Verify that the page loaded successfully
   const pageTitle = await page.title();
-  if (pageTitle === 'Example Domain') {
+  if (pageTitle === 'MyWebClass.org') {
     console.log('Homepage loaded successfully!');
   } else {
     console.error('Homepage failed to load.');

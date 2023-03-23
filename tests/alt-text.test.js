@@ -5,7 +5,7 @@ const { chromium } = require('@playwright/test');
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  await page.goto('https://example.com');
+  await page.goto('http://localhost:3000');
 
   // Get all images on the page
   const images = await page.$$eval('img', (imgs) =>
