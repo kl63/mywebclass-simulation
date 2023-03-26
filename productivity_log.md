@@ -4,9 +4,9 @@
 | Create Team Productivity Log  | 1     | https://github.com/kl63/mywebclass-simulation/issues/3  | Completed | Kevin L. | 3/9/23 | 3/9/23 | Features  | Completed/Closed  |
 | Complete the Team Management Person 3  | 1      | https://github.com/kl63/mywebclass-simulation/issues/7  | Completed  | Rick K.    | 3/10/23 | 3/21/23 | Features  | Completed/Closed  |
 | Complete the Team Management Person 2  | 1     | https://github.com/kl63/mywebclass-simulation/issues/6  | Completed   | Lucicto S.     | 3/10/23 | 3/20/23 | Features  | Completed/Closed  |
-| Themes, Initiatives, Epics, and Stories  | 3      | https://github.com/kl63/mywebclass-simulation/issues/5  | Completed   | Kevin L.     | 3/10/23 | 3/12/23 | Docs  | Completed/Closed  |
-| SEO Research  | 2      | https://github.com/kl63/mywebclass-simulation/issues/9  | Completed   | Kevin L.     | 3/13/23 | 3/13/23 | Docs  | Completed/Closed  |
-| Internationalization Research  | 2      | https://github.com/kl63/mywebclass-simulation/issues/8  | Completed   | Kevin L.     | 3/13/23 | 3/13/23 | Docs  | Completed/Closed  |
+| Themes, Initiatives, Epics, and Stories  | 3      | https://github.com/kl63/mywebclass-simulation/issues/5  | Completed   | Kevin L.     | 3/10/23 | 3/12/23 | Documentation  | Completed/Closed  |
+| SEO Research  | 2      | https://github.com/kl63/mywebclass-simulation/issues/9  | Completed   | Kevin L.     | 3/13/23 | 3/13/23 | Documentation  | Completed/Closed  |
+| Internationalization Research  | 2      | https://github.com/kl63/mywebclass-simulation/issues/8  | Completed   | Kevin L.     | 3/13/23 | 3/13/23 | Documentation  | Completed/Closed  |
 | Update Productivity Log  | 1      | https://github.com/kl63/mywebclass-simulation/issues/10  | Completed   | Kevin L.     | 3/14/23 | 3/14/23 | Bug  | Completed/Closed  |
 | Google Analytics Tags  | 5      | https://github.com/kl63/mywebclass-simulation/issues/17  | Completed   | Kevin L.    | 3/27/23 | 3/20/23 | Features  | Completed/Closed  |
 | Privacy Policy Modal  | 5      | https://github.com/kl63/mywebclass-simulation/issues/13  | Completed   | Kevin L.     | 3/18/23 | 3/18/23 | Features  | Completed/Closed  |
@@ -27,7 +27,7 @@
 | [Test 7] - Homepage loads successfully  | 1      | https://github.com/kl63/mywebclass-simulation/issues/44  | Completed   | Lucicto S.     | 3/21/23 | 3/26/23 | Features  | Completed/Closed   |
 | [Test 7] - Homepage loads successfully REDO  | 3      | https://github.com/kl63/mywebclass-simulation/issues/67  | Completed   | Lucicto S.     | 3/21/23 | 3/26/23 | Bug  | Completed/Closed   |
 | [Test 8] - Test if clicking the "Accept" button closes the cookie modal  | 3      | https://github.com/kl63/mywebclass-simulation/issues/46  | Completed   | Lucicto S.     | 3/21/23 | 3/26/23 | Features  | Completed/Closed   |
-| [Test 9] - tracking cookies is functioning  | 2      | https://github.com/kl63/mywebclass-simulation/issues/47  | To Do   | Lucicto S.     | 3/21/23 | 3/26/23 | Features  | Completed/Closed   |
+| [Test 9] - tracking cookies is functioning  | 2      | https://github.com/kl63/mywebclass-simulation/issues/47  | Completed   | Lucicto S.     | 3/21/23 | 3/26/23 | Features  | Completed/Closed   |
 | [Test 10] - Privacy policy includes Google Analytics  | 3      | https://github.com/kl63/mywebclass-simulation/issues/48  | Completed   | Rick K.     | 3/21/23 | 3/24/23 | Features  | Completed/Closed   |
 | [Test 11] - Testing for lang  | 2      | https://github.com/kl63/mywebclass-simulation/issues/50  | Completed   | Kevin L.     | 3/21/23 | 3/21/23 | Features | Completed/Closed  |
 | [Test 12-14] - Testing with different browsers and devices  | 5      | https://github.com/kl63/mywebclass-simulation/issues/51  | Completed   | Kevin L.     | 3/21/23 | 3/21/23 | Features  | Completed/Closed  |
