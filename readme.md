@@ -67,6 +67,9 @@ Finally, use Playwright to create powerful and reliable automated tests for web 
 1. [Project Dashboard](https://github.com/users/kl63/projects/3)
 2. [Part 1 - Team Management Documentations](https://github.com/kl63/mywebclass-simulation/wiki/Part-1-Team-Management-Documentations)
 3. [Productivity Log](https://github.com/kl63/mywebclass-simulation/blob/master/productivity_log.md)
-3. [Part 3 - Project Analysis Documentation](https://github.com/kl63/mywebclass-simulation/wiki/Part-3-Project-Analysis-Documentation)
-4. [Instructions for Project Installation](https://github.com/kl63/mywebclass-simulation/wiki/Instructions-for-Project-Installation)
-5. 
+4. [Part 3 - Project Analysis Documentation](https://github.com/kl63/mywebclass-simulation/wiki/Part-3-Project-Analysis-Documentation)
+5. [Instructions for Project Installation](https://github.com/kl63/mywebclass-simulation/wiki/Instructions-for-Project-Installation)
+6. [Issue Queue](https://github.com/kl63/mywebclass-simulation/issues)
+7. [Instructions for Project Installation](https://github.com/kl63/mywebclass-simulation/wiki/Instructions-for-Page-Deployment)
+8. [Website Deployment](https://kl63.github.io/mywebclass-simulation/index.html)
+
